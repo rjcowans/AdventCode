@@ -6,3 +6,10 @@ Advent1/obj/*
 Advent1/Advent1.csproj
 Advent1/Advent1.sln
 Advent1/.vs/*
+Advent1/Creds.cs
+Advent2/.vs/*
+Advent2/Creds.cs
+Advent2/obj/*
+Advent2/bin/*
+Advent2/Advent2.csproj
+Advent2/Advent2.sln
